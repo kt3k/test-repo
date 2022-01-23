@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // ブラウザ用 type
+    "lib": ["dom"]
+  }
+}
